@@ -143,7 +143,7 @@ pip install -r requirements.txt
 
 ## Business Dashboard
 
-![Dashboard Visualisasi](dashboard.png)
+![Dashboard Visualisasi](caesarmaulana_dashboard.png)
 
 Dashboard ini dirancang untuk menganalisis dan memvisualisasikan berbagai faktor yang mempengaruhi **attrition** (keluarnya karyawan) dalam organisasi. Tujuannya adalah untuk membantu manajemen mengambil keputusan strategis berbasis data.
 
